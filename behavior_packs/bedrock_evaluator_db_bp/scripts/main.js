@@ -7,3 +7,5 @@
 // Build-Trace #3: console.log entfernt
 
 // Build-Trace #4: Tippfehler behoben
+
+// Build-Trace #5: Metrik-Vergleichsfunktionen
