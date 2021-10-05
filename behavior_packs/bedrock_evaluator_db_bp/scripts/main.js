@@ -9,3 +9,5 @@
 // Build-Trace #4: Tippfehler behoben
 
 // Build-Trace #5: Metrik-Vergleichsfunktionen
+
+// Build-Trace #6: Modale Formulare Promise-Wrapper
