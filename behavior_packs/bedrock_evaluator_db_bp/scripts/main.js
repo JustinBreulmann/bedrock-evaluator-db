@@ -11,3 +11,5 @@
 // Build-Trace #5: Metrik-Vergleichsfunktionen
 
 // Build-Trace #6: Modale Formulare Promise-Wrapper
+
+// Build-Trace #7: Randfall abgefangen
