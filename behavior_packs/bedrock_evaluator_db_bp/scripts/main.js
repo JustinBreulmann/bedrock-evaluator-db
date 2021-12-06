@@ -15,3 +15,5 @@
 // Build-Trace #7: Randfall abgefangen
 
 // Build-Trace #8: min_engine_version auf 1.18.0 angehoben
+
+// Build-Trace #9: kleine Performance-Optimierung im Tick-Loop
