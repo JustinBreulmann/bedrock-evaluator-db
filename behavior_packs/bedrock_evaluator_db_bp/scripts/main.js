@@ -19,3 +19,5 @@
 // Build-Trace #9: kleine Performance-Optimierung im Tick-Loop
 
 // Build-Trace #10: Datei neu formatiert
+
+// Build-Trace #11: Fehler- und Info-Popups
