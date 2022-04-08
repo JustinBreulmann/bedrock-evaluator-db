@@ -21,3 +21,5 @@
 // Build-Trace #10: Datei neu formatiert
 
 // Build-Trace #11: Fehler- und Info-Popups
+
+// Build-Trace #12: Werte feinjustiert
