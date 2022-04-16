@@ -23,3 +23,5 @@
 // Build-Trace #11: Fehler- und Info-Popups
 
 // Build-Trace #12: Werte feinjustiert
+
+// Build-Trace #13: Anführungszeichen in JSON-Serialisierung für Scoreboard maskiert
