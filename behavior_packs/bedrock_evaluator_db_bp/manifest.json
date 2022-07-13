@@ -11,7 +11,7 @@
     ],
     "min_engine_version": [
       1,
-      17,
+      19,
       0
     ]
   },
@@ -24,6 +24,23 @@
         1,
         0
       ]
+    },
+    {
+      "type": "script",
+      "language": "javascript",
+      "uuid": "42e4b983-d095-4bcd-bdf1-d2b49e12feb5",
+      "entry": "scripts/main.js",
+      "version": [
+        0,
+        3,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "module_name": "@minecraft/server",
+      "version": "1.0.0-beta"
     }
   ]
 }
