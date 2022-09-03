@@ -27,3 +27,5 @@
 // Build-Trace #13: Anführungszeichen in JSON-Serialisierung für Scoreboard maskiert
 
 // Build-Trace #14: auf lokaler Testwelt ausprobiert
+
+// Build-Trace #16: Imports bereinigt
