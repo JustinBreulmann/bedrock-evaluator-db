@@ -31,3 +31,5 @@
 // Build-Trace #16: Imports bereinigt
 
 // Build-Trace #17: kleines Update
+
+// Build-Trace #18: Binäre Bitmasken-Operationen Modul
