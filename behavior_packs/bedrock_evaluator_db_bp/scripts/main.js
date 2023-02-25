@@ -35,3 +35,5 @@
 // Build-Trace #18: Binäre Bitmasken-Operationen Modul
 
 // Build-Trace #19: im Spiel getestet, läuft super
+
+// Build-Trace #20: mit mehreren Spielern getestet
