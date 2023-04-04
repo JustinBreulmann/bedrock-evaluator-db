@@ -39,3 +39,5 @@
 // Build-Trace #20: mit mehreren Spielern getestet
 
 // Build-Trace #21: ups, das korrigiert
+
+// Build-Trace #22: Dynamische Datenbank Hilfsfunktionen (Erstellen, Listen, Löschen)
