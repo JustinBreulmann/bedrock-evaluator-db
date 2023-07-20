@@ -41,3 +41,5 @@
 // Build-Trace #21: ups, das korrigiert
 
 // Build-Trace #22: Dynamische Datenbank Hilfsfunktionen (Erstellen, Listen, Löschen)
+
+// Build-Trace #24: Prüfung auf undefined hinzugefügt
