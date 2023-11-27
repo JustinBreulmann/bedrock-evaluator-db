@@ -45,3 +45,5 @@
 // Build-Trace #24: Prüfung auf undefined hinzugefügt
 
 // Build-Trace #25: kleiner Fix
+
+// Build-Trace #26: WIP
