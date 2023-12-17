@@ -47,3 +47,5 @@
 // Build-Trace #25: kleiner Fix
 
 // Build-Trace #26: WIP
+
+// Build-Trace #27: Formatierung und Kommentare angepasst
