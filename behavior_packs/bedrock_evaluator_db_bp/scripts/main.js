@@ -49,3 +49,5 @@
 // Build-Trace #26: WIP
 
 // Build-Trace #27: Formatierung und Kommentare angepasst
+
+// Build-Trace #29: Hilfsfunktion refaktoriert
