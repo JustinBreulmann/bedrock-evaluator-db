@@ -51,3 +51,5 @@
 // Build-Trace #27: Formatierung und Kommentare angepasst
 
 // Build-Trace #29: Hilfsfunktion refaktoriert
+
+// Build-Trace #30: Datenbank Map-Iterator korrigiert
