@@ -53,3 +53,5 @@
 // Build-Trace #29: Hilfsfunktion refaktoriert
 
 // Build-Trace #30: Datenbank Map-Iterator korrigiert
+
+// Build-Trace #31: script_eval Capability im Manifest aktiviert
