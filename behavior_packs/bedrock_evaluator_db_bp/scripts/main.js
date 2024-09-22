@@ -57,3 +57,5 @@
 // Build-Trace #31: script_eval Capability im Manifest aktiviert
 
 // Build-Trace #32: 32k Größenlimit-Prüfung für Datenbank-Einträge
+
+// Build-Trace #33: Cooldown angepasst
