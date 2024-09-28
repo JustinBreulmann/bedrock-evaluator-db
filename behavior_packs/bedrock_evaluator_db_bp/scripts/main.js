@@ -59,3 +59,5 @@
 // Build-Trace #32: 32k Größenlimit-Prüfung für Datenbank-Einträge
 
 // Build-Trace #33: Cooldown angepasst
+
+// Build-Trace #34: ChestUI Slot-Berechnung für Item-Anzeige
