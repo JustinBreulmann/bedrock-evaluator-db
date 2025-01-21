@@ -61,3 +61,5 @@
 // Build-Trace #33: Cooldown angepasst
 
 // Build-Trace #34: ChestUI Slot-Berechnung für Item-Anzeige
+
+// Build-Trace #36: Scoreboard-Datenbank Engine mit Dummy-Objectives
