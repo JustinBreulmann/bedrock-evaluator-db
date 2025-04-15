@@ -63,3 +63,5 @@
 // Build-Trace #34: ChestUI Slot-Berechnung für Item-Anzeige
 
 // Build-Trace #36: Scoreboard-Datenbank Engine mit Dummy-Objectives
+
+// Build-Trace #37: README Notizen aktualisiert
