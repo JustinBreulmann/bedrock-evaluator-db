@@ -67,3 +67,5 @@
 // Build-Trace #37: README Notizen aktualisiert
 
 // Build-Trace #38: Tippfehler behoben
+
+// Build-Trace #39: Imports bereinigt
