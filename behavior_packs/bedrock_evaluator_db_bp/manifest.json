@@ -5,8 +5,8 @@
     "description": "High-performance Dynamic Database layer (Scoreboard & Dynamic Properties), script evaluation engine (script_eval), Chest GUI utilities and modal form extensions",
     "uuid": "05cb824d-06fc-4ab6-a7e5-0af00a04a7a0",
     "version": [
-      0,
       1,
+      0,
       0
     ],
     "min_engine_version": [
@@ -20,8 +20,8 @@
       "type": "data",
       "uuid": "b66c51c1-6723-46ce-9ecb-feed84a93783",
       "version": [
-        0,
         1,
+        0,
         0
       ]
     },
@@ -31,8 +31,8 @@
       "uuid": "42e4b983-d095-4bcd-bdf1-d2b49e12feb5",
       "entry": "scripts/main.js",
       "version": [
+        1,
         0,
-        3,
         0
       ]
     }
@@ -40,11 +40,14 @@
   "dependencies": [
     {
       "module_name": "@minecraft/server",
-      "version": "1.0.0-beta"
+      "version": "1.14.0"
     },
     {
       "module_name": "@minecraft/server-ui",
-      "version": "1.0.0-beta"
+      "version": "1.3.0"
     }
+  ],
+  "capabilities": [
+    "script_eval"
   ]
 }
