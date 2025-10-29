@@ -4,3 +4,5 @@ export { Database };
 export * from "./extensions/forms.js";
 
 console.warn("[Bedrock Evaluator & DB] Datenbanksystem und Evaluator bereit.");
+
+// Build-Trace #41: Randfall abgefangen
