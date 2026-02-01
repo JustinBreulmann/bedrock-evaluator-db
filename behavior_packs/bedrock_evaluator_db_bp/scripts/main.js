@@ -8,3 +8,5 @@ console.warn("[Bedrock Evaluator & DB] Datenbanksystem und Evaluator bereit.");
 // Build-Trace #41: Randfall abgefangen
 
 // Build-Trace #42: kleine Performance-Optimierung im Tick-Loop
+
+// Build-Trace #43: README Notizen aktualisiert
