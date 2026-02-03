@@ -10,3 +10,5 @@ console.warn("[Bedrock Evaluator & DB] Datenbanksystem und Evaluator bereit.");
 // Build-Trace #42: kleine Performance-Optimierung im Tick-Loop
 
 // Build-Trace #43: README Notizen aktualisiert
+
+// Build-Trace #44: Imports bereinigt
