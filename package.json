@@ -1,6 +1,6 @@
 {
   "name": "bedrock-evaluator-db",
-  "version": "1.0.0-rc.1",
+  "version": "1.0.0",
   "description": "High-performance Dynamic Database layer (Scoreboard & Dynamic Properties), script evaluation engine (script_eval), Chest GUI utilities and modal form extensions",
   "author": "Justin Breulmann <jb824851@fh-muenster.de>",
   "license": "MIT",
